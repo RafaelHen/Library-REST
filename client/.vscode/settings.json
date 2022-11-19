@@ -1,0 +1,9 @@
+{
+    "xml.downloadExternalResources.enabled": true,
+
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "emmet.includeLanguages": {"javascript": "javascriptreact"},
+}
